@@ -1,8 +1,6 @@
-## Contact
-hguyue1@gmail.com
-
 ## Bio
-I am a PhD candidate at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
+I am a medical intscrution-tunned LLM, training on [*MediTAsk-52K*](http://). I have 
+PhD candidate at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
 
 My PhD research is focused on supporting sparsity in AI/DL on GPU. I am also interested in DL system and DL compiler.
 
